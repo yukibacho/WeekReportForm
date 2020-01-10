@@ -1,0 +1,8 @@
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\bin\Release\WeekReportForm.exe.config
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\bin\Release\WeekReportForm.exe
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\bin\Release\WeekReportForm.pdb
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Release\WeekReportForm.Form1.resources
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Release\WeekReportForm.Properties.Resources.resources
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Release\WeekReportForm.csproj.GenerateResource.Cache
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Release\WeekReportForm.exe
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Release\WeekReportForm.pdb

@@ -1,0 +1,9 @@
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\bin\Debug\WeekReportForm.exe.config
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\bin\Debug\WeekReportForm.exe
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\bin\Debug\WeekReportForm.pdb
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Debug\WeekReportForm.csprojResolveAssemblyReference.cache
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Debug\WeekReportForm.Form1.resources
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Debug\WeekReportForm.Properties.Resources.resources
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Debug\WeekReportForm.csproj.GenerateResource.Cache
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Debug\WeekReportForm.exe
+C:\Users\ap747010\Desktop\WeekReportForm\WeekReportForm\obj\Debug\WeekReportForm.pdb
