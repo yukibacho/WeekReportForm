@@ -1,5 +1,9 @@
 # WeekReportForm（週報作成フォーム）
 ![WRF](https://user-images.githubusercontent.com/57794992/72134921-9422b600-33c8-11ea-96e3-53c83c2dfe9a.png)
+
+↓本アプリの作成に至ったバックグラウンドや詳しい操作方法は以下参照
+https://qiita.com/yukibacho/items/0265926f607ccf5489b8
+
 ## 前提条件
 ・Windows環境でのみ動作可能
 
